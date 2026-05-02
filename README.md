@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Oi, meu nome é Amanda! 𖹭</h1>
 
-<!--
-**amandaolivip/amandaolivip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="150" src="https://tenor.com/pt-BR/view/akane-banashi-akane-banashi-akane-osaki-akane-arakawa-anime-gif-2102544358514488858"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/amanda-oliveira-7553b13a8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/amandaolivip/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<h3 align="left">𐙚 Sobre mim</h3>
+
+###
+
+<p align="left">- 🏖 Sou natural de Fortaleza, Ceará<br><br>- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, estou cursando o primeiro semestre<br><br>- 🎨 Tenho interesse em UX/UI Design. Já possuo noção com design básico, porém, busco aprimorar com o Figma e obter noção de código com HTML, CSS e JavaScript<br><br>- 🌸 Curto ouvir músicas, treinar, ler mangás e livros, assistir animes, séries e filmes e jogar</p>
+
+###
+
+<h3 align="left">𐙚 Linguagens e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">𐙚 Spotify</h3>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qiqinyv02goy9h69aqu7ctbf7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qiqinyv02goy9h69aqu7ctbf7&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
