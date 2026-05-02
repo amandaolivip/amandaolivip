@@ -3,18 +3,24 @@
 ###
 
 <div align="center">
-  <img height="387" src="https://media1.tenor.com/m/rLBgGRR7ylYAAAAd/akane-banashi-akane-banashi-op.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/amanda-oliveira-7553b13a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmGQUi6yNTNq7JG3oIPxJ4Q%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/amandaolivip/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=C497C4&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="450" src="https://media1.tenor.com/m/rLBgGRR7ylYAAAAd/akane-banashi-akane-banashi-op.gif"  />
 </div>
 
 ###
