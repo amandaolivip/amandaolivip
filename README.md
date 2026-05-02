@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/amanda-oliveira-7553b13a8" target="_blank">
+  <a href="https://www.linkedin.com/in/amanda-oliveira-7553b13a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmGQUi6yNTNq7JG3oIPxJ4Q%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/amandaolivip/" target="_blank">
@@ -19,15 +19,15 @@
 
 ###
 
-<h3 align="left">𐙚 Sobre mim</h3>
+<h3 align="left">𐙚 Sobre mim ✨</h3>
 
 ###
 
-<p align="left">- 🏖 Sou natural de Fortaleza, Ceará<br><br>- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR, estou cursando o primeiro semestre<br><br>- 🎨 Tenho interesse em UX/UI Design. Já possuo noção com design básico, porém, busco aprimorar com o Figma e obter noção de código com HTML, CSS e JavaScript<br><br>- 🌸 Curto ouvir músicas, treinar, ler mangás e livros, assistir animes, séries e filmes e jogar</p>
+<p align="left">- 🏖 Moro em Fortaleza, Ceará<br><br>- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR<br><br>- 🎨 Tenho interesse em UX/UI Design. Já possuo noção com design básico, porém, busco aprimorar com o Figma e obter noção de código com HTML, CSS e JavaScript<br><br>- 🌸 Curto ouvir músicas, treinar, ler mangás e livros, assistir animes, séries e filmes e jogar</p>
 
 ###
 
-<h3 align="left">𐙚 Linguagens e Ferramentas</h3>
+<h3 align="left">𐙚 Linguagens e Ferramentas ⚙</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">𐙚 Spotify</h3>
+<h3 align="left">𐙚 Spotify 🎧💿</h3>
 
 ###
 
