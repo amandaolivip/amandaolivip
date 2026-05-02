@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://tenor.com/pt-BR/view/akane-banashi-akane-banashi-akane-osaki-akane-arakawa-anime-gif-2102544358514488858"  />
+  <img height="387" src="https://media1.tenor.com/m/rLBgGRR7ylYAAAAd/akane-banashi-akane-banashi-op.gif"  />
 </div>
 
 ###
@@ -15,7 +15,9 @@
   <a href="https://www.instagram.com/amandaolivip/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/amandaolivip" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
