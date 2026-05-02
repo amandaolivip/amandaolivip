@@ -13,12 +13,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=C497C4&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <div align="center">
   <img height="450" src="https://media1.tenor.com/m/rLBgGRR7ylYAAAAd/akane-banashi-akane-banashi-op.gif"  />
 </div>
