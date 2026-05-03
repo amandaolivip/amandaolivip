@@ -28,11 +28,11 @@
 
 ###
 
-<p align="left">- 🏖 Moro em Fortaleza, Ceará<br><br>- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR<br><br>- 🎨 Tenho interesse em UX/UI Design. Já possuo noção com design básico, porém, busco aprimorar com o Figma e obter noção de código com HTML, CSS e JavaScript<br><br>- 🌸 Curto ouvir músicas, treinar, ler mangás e livros, assistir animes, séries e filmes e jogar</p>
+<p align="left">- 🏖 Moro em Fortaleza, Ceará<br><br>- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR<br><br>- 🎨 Tenho interesse em UX/UI Design. Já possuo noção com design básico, porém, busco aprimorar com o Figma e obter noção de código com HTML, CSS e JavaScript</p>
 
 ###
 
-<h3 align="left">𐙚 Linguagens e Ferramentas ⚙</h3>
+<h3 align="left">𐙚 Linguagens e Ferramentas 🛠</h3>
 
 ###
 
