@@ -49,15 +49,3 @@
 </div>
 
 ###
-
-<h3 align="left">𐙚 Spotify 🎧💿</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qiqinyv02goy9h69aqu7ctbf7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qiqinyv02goy9h69aqu7ctbf7&count=10" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
