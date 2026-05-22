@@ -2,14 +2,8 @@
 
 ###
 
-<img align="left" height="285" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhoZTNqbDRhbzZ6cHVqd2Jna3RxYW5jdHkzbXJ4cHkxYTFkbjNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCP6Kpf6guFm4nnF04/giphy.gif"  />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/qiqinyv02goy9h69aqu7ctbf7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qiqinyv02goy9h69aqu7ctbf7&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhoZTNqbDRhbzZ6cHVqd2Jna3RxYW5jdHkzbXJ4cHkxYTFkbjNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCP6Kpf6guFm4nnF04/giphy.gif"  />
 </div>
 
 ###
