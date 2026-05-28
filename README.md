@@ -1,20 +1,18 @@
-<h1 align="center">Amanda Oliveira</h1>
+<h3 align="center">こんにちは！</h3>
 
 ###
 
-<div align="center">
-  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhoZTNqbDRhbzZ6cHVqd2Jna3RxYW5jdHkzbXJ4cHkxYTFkbjNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VCP6Kpf6guFm4nnF04/giphy.gif"  />
-</div>
+<h1 align="center">Amanda Oliveira 𖹭</h1>
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Social Media 𖹭</h2>
+<img align="left" height="350" src="https://media.tenor.com/XMUlAmIJ-woAAAAi/anime-madoka-magica.gif"  />
 
 ###
 
-<br clear="both">
+<h2 align="center">Social Media.</h2>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amanda-oliveira-7553b13a8/" target="_blank">
@@ -28,9 +26,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Techs 𖹭</h2>
+<h2 align="center">Techs.</h2>
 
 ###
 
@@ -45,5 +41,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left">✦ Quem Sou Eu?</h3>
+
+###
+
+<p align="left">🏖️​ - Moro em Fortaleza, Ceará<br><br>🌸​ - Tenho 18 anos <br><br>💻 - Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR); estou cursando o primeiro semestre.</p>
 
 ###
