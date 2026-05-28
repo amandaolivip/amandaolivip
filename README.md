@@ -8,7 +8,9 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://media.tenor.com/XMUlAmIJ-woAAAAi/anime-madoka-magica.gif"  />
+<div align="center">
+  <img height="400" src="https://media.tenor.com/XMUlAmIJ-woAAAAi/anime-madoka-magica.gif"  />
+</div>
 
 ###
 
