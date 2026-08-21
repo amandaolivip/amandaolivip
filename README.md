@@ -2,9 +2,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Amanda Oliveira 𖹭</h1>
-
-###
 
 <br clear="both">
 
@@ -14,18 +11,6 @@
 
 ###
 
-<h2 data-importer="text" align="center">Social Media.</h2>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/amanda-oliveira-7553b13a8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
 
 <h2 data-importer="text" align="center">Techs.</h2>
 
