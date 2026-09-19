@@ -30,16 +30,3 @@
 
 ###
 
-<br clear="both">
-
-<h3 data-importer="text" align="left"></h3>
-
-###
-
-<h3 data-importer="text" align="left">✦ Quem Sou Eu?</h3>
-
-###
-
-<p data-importer="text" align="left">🏖️​ - Moro em Fortaleza, Ceará<br><br>🌸​ - Tenho 18 anos <br><br>💻 - Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR); estou cursando o segundo semestre.<br><br>🎨​ - Estudante de Artes Visuais no Instituto Federal do Ceará (IFCE) no primeiro semestre.</p>
-
-###
