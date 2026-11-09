@@ -1,9 +1,9 @@
-<h2 data-importer="text" align="center">🌸 こんにちは！</h2>
+<h2 data-importer="text" align="center">──── ୨୧ ────</h2>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="380" src="https://media.tenor.com/XMUlAmIJ-woAAAAi/anime-madoka-magica.gif"  />
+  <img data-importer="image" height="380" src="https://media1.tenor.com/m/CMomCRBV6CQAAAAC/puella-magi-madoka-magica-walpurgisnacht-rising.gif"  />
 </div>
 
 ###
@@ -12,6 +12,10 @@
 
 ###
 
-<p data-importer="text" align="left">✎ᝰ. My name is Amanda, and I'm 19 years old.<br><br>💻 Systems Analysis and Development Student at the University of Fortaleza (UNIFOR)<br>⚙️ Exploring Web Development and IoT</p>
+<h3 data-importer="text" align="center">About Me</h3>
+
+###
+
+<p data-importer="text" align="left">💻 Systems Analysis and Development Student at the University of Fortaleza (UNIFOR)<br>⚙️ Exploring Web Development and IoT</p>
 
 ###
