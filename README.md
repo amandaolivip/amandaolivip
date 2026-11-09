@@ -19,3 +19,17 @@
 <p data-importer="text" align="left">🧸 19 years old.<br>💻 Systems Analysis and Development Student at the University of Fortaleza (UNIFOR.)<br>⚙️ Exploring Web Development and IoT.</p>
 
 ###
+
+<h3 data-importer="text" align="center">Tech & Tools ⋆｡𖦹°‧★</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
