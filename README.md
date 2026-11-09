@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="380" src="https://media1.tenor.com/m/CMomCRBV6CQAAAAC/puella-magi-madoka-magica-walpurgisnacht-rising.gif"  />
+  <img data-importer="image" height="450" src="https://media1.tenor.com/m/CMomCRBV6CQAAAAC/puella-magi-madoka-magica-walpurgisnacht-rising.gif"  />
 </div>
 
 ###
