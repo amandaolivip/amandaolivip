@@ -1,18 +1,8 @@
-<h2 data-importer="text" align="center">──── ୨୧ ────</h2>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="460" src="https://media1.tenor.com/m/CMomCRBV6CQAAAAC/puella-magi-madoka-magica-walpurgisnacht-rising.gif"  />
-</div>
-
-###
-
-<h2 data-importer="text" align="center">──── ୨୧ ────</h2>
-
-###
-
 <h3 data-importer="text" align="center">About Me ୭ ᵎᵎ 🧁</h3>
+
+###
+
+<h2 data-importer="text" align="center">──── ୨୧ ────</h2>
 
 ###
 
